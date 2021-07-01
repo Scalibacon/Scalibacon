@@ -23,8 +23,10 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 <img align="left" alt="java" src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white&style=for-the-badge" />
 
 <img align="left" alt="sql server" src="https://img.shields.io/badge/-sql%20server-2b2b2b?logo=microsoft-sql-server&logoColor=CC2927&style=for-the-badge" />
-
+<!--
+<br>
 <img align="left" alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+-->
 
 <br>
 <br>
