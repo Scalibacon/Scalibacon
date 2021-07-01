@@ -7,6 +7,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 - 🎮 Gosto de jogos, animes, de bater papo e de dar uma boa soneca.
 - ⚡ Gosto de aprender coisas novas.
 
+<br>
 
 ## Manjo um pouco de:
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=3e3e3e&style=for-the-badge" />
@@ -21,6 +22,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
 <img align="left" alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 
+<br>
 <br>
 
 ## Redes sociais (não tenho muitas 🤭)
