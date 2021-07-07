@@ -5,7 +5,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 - 🌱 No momento tô me aperfeiçoando em front end.
 - 💘 Sou apaixonado pela stack JavaScript.
 - 🎮 Gosto de jogos, animes, de bater papo e de dar uma boa soneca.
-- ⚡ Gosto de aprender coisas novas.
+- ⚡ Gosto de aprender coisas novas e tenho certa facilidade com isso. Talvez...
 
 <br>
 
