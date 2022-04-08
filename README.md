@@ -1,8 +1,8 @@
 ### Salve, rapaziada 🤙
 Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
-- 🔭 Apreciador mediano de JavaScript
-- 🌱 Focado no desenvolvimento pra Web
+- 🔭 Apreciador médio de JavaScript
+- 🌱 Focado no desenvolvimento web
 - 💘 MADAO Supremacy
 - 🎮 Jogar é bom demais
 
