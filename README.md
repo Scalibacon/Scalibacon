@@ -35,7 +35,10 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
 [<img align="left" alt="steam" src="https://img.shields.io/badge/-steam-12273d?logo=steam&logoColor=white&style=for-the-badge" />](https://steamcommunity.com/id/scalibacon/)
 
-<br>
+<br><br><br>
+<p align="center">
+  <img alt="meme-gif" src="https://i.giphy.com/media/jHXc24795ACkWKpZNh/giphy.webp">
+</p>
 
 <!--
 **Scalibacon/Scalibacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
