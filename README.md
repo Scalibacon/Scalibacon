@@ -13,9 +13,13 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=3e3e3e&style=for-the-badge" />
 
+<br><br>
+
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 <img align="left" alt="node.js" src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+
+<br><br>
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 
@@ -25,19 +29,18 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
 <img align="left" alt="sql server" src="https://img.shields.io/badge/-sql-2b2b2b?logo=microsoft-sql-server&logoColor=CC2927&style=for-the-badge" />
 
-<br>
-<br>
+<br><br>
 
 ## Redes sociais (não tenho muitas 🤭)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-f-nascimento/)
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/matheus.ferreiradonascimento/)
-
+<br><br>
 [<img align="left" alt="steam" src="https://img.shields.io/badge/-steam-12273d?logo=steam&logoColor=white&style=for-the-badge" />](https://steamcommunity.com/id/scalibacon/)
 
 <br><br><br>
 <p align="center">
-  <img alt="meme-gif" src="https://i.giphy.com/media/jHXc24795ACkWKpZNh/giphy.webp">
+  <img alt="meme-gif" src="https://i.giphy.com/media/jHXc24795ACkWKpZNh/giphy.webp" width="500px">
 </p>
 
 <!--
