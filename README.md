@@ -5,6 +5,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 - 🌱 Focado no desenvolvimento web
 - 💘 MADAO Supremacy
 - 🎮 Jogar é bom demais
+- 🌍 [scalibacon.github.io/portfolio/](https://scalibacon.github.io/portfolio/)
 
 <br>
 
