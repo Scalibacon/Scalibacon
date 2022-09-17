@@ -41,7 +41,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 
 <br><br><br>
 <p align="center">
-  <img alt="meme-gif" src="https://i.giphy.com/media/jHXc24795ACkWKpZNh/giphy.webp" width="500px">
+  <img alt="meme-gif" src="/assets/average js enjoyer.gif" width="500px">
 </p>
 
 <!--
