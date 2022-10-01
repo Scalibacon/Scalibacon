@@ -1,5 +1,5 @@
 ### Salve, rapaziada 🤙
-Sou um desenvolvedor full stack e... acho que é só isso mesmo.
+Sou um desenvolvedor full stack com foco no front-end e... acho que é só isso mesmo.
 
 - 🔭 Apreciador médio de JavaScript
 - 🌱 Focado no desenvolvimento web
@@ -17,6 +17,8 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 <br><br>
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<img align="left" alt="next" src="https://img.shields.io/badge/next.js%20-%2320232a.svg?&style=for-the-badge&logo=next.js&logoColor=%fff" />
 
 <img align="left" alt="node.js" src="https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
 
@@ -36,7 +38,7 @@ Sou um desenvolvedor full stack e... acho que é só isso mesmo.
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-f-nascimento/)
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/matheus.ferreiradonascimento/)
-<br><br>
+
 [<img align="left" alt="steam" src="https://img.shields.io/badge/-steam-12273d?logo=steam&logoColor=white&style=for-the-badge" />](https://steamcommunity.com/id/scalibacon/)
 
 <br><br><br>
